@@ -1,0 +1,37 @@
+.search-box
+{
+position: absolute;
+width: 360px;
+height: 42px;
+left: 540px;
+}
+
+.jumbotron-alter
+{
+  background-color:black;
+  background-image: linear-gradient(
+    to bottom, transparent, #000
+  ), url("./Images/Rectangle.png");
+    margin: 0px auto;
+  padding: 70px 30px;
+  padding-top: 20%;
+  padding-bottom: 2%;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+    background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+.jumbotron-back
+{
+    background-color: black;
+}
+
+.jumbotron-text
+{
+    color: white;
+    padding-left: 7%;
+    padding-bottom: 3%;
+}
