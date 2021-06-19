@@ -1,9 +1,11 @@
 import React,{ Component } from 'react';
 import { render } from 'react-dom';
+import Join from './JoinMainComponent';
 import {Button, ButtonGroup, DropdownButton, Dropdown} from 'react-bootstrap';
 
 
 class TabComponent extends Component {
+  
 
     
   render(){
