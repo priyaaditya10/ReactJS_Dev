@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/ReactJS_Dev/static/css/main.eda69584.chunk.css",
+    "main.js": "/ReactJS_Dev/static/js/main.0798b683.chunk.js",
+    "main.js.map": "/ReactJS_Dev/static/js/main.0798b683.chunk.js.map",
+    "runtime-main.js": "/ReactJS_Dev/static/js/runtime-main.20fb3fb5.js",
+    "runtime-main.js.map": "/ReactJS_Dev/static/js/runtime-main.20fb3fb5.js.map",
+    "static/css/2.43ad40e3.chunk.css": "/ReactJS_Dev/static/css/2.43ad40e3.chunk.css",
+    "static/js/2.aa318172.chunk.js": "/ReactJS_Dev/static/js/2.aa318172.chunk.js",
+    "static/js/2.aa318172.chunk.js.map": "/ReactJS_Dev/static/js/2.aa318172.chunk.js.map",
+    "static/js/3.b3258eab.chunk.js": "/ReactJS_Dev/static/js/3.b3258eab.chunk.js",
+    "static/js/3.b3258eab.chunk.js.map": "/ReactJS_Dev/static/js/3.b3258eab.chunk.js.map",
+    "index.html": "/ReactJS_Dev/index.html",
+    "static/css/2.43ad40e3.chunk.css.map": "/ReactJS_Dev/static/css/2.43ad40e3.chunk.css.map",
+    "static/css/main.eda69584.chunk.css.map": "/ReactJS_Dev/static/css/main.eda69584.chunk.css.map",
+    "static/js/2.aa318172.chunk.js.LICENSE.txt": "/ReactJS_Dev/static/js/2.aa318172.chunk.js.LICENSE.txt",
+    "static/media/Card1.d85eb51e.png": "/ReactJS_Dev/static/media/Card1.d85eb51e.png",
+    "static/media/Card2.d9a7e71a.png": "/ReactJS_Dev/static/media/Card2.d9a7e71a.png",
+    "static/media/Card3.542fae90.png": "/ReactJS_Dev/static/media/Card3.542fae90.png",
+    "static/media/App.css": "/ReactJS_Dev/static/media/Rectangle.0b2dfdb7.png",
+    "static/media/font-awesome.min.css": "/ReactJS_Dev/static/media/fontawesome-webfont.f691f37e.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.20fb3fb5.js",
+    "static/css/2.43ad40e3.chunk.css",
+    "static/js/2.aa318172.chunk.js",
+    "static/css/main.eda69584.chunk.css",
+    "static/js/main.0798b683.chunk.js"
+  ]
+}
